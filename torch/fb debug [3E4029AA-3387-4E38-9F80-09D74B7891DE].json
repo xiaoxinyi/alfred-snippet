@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "local debugger = require('fb.debugger')\ndebugger.enter()",
+    "uid" : "3E4029AA-3387-4E38-9F80-09D74B7891DE",
+    "name" : "fb debug",
+    "keyword" : "fbd"
+  }
+}

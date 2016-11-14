@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "docker-machine create --engine-registry-mirror=https:\/\/w2ils7py.mirror.aliyuncs.com -d virtualbox default",
+    "uid" : "10C95109-B07C-468F-A552-EB6EF4DE6071",
+    "name" : "docker machine",
+    "keyword" : "dm"
+  }
+}

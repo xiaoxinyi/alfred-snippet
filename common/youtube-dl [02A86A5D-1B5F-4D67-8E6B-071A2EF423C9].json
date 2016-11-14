@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "youtube-dl -o '%(title)s.%(ext)s'",
+    "uid" : "02A86A5D-1B5F-4D67-8E6B-071A2EF423C9",
+    "name" : "youtube-dl",
+    "keyword" : "youtube"
+  }
+}

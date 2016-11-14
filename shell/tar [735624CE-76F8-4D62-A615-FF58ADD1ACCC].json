@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "tar xvf VOCtest_06-Nov-2007.tar  -C directory  --strip-components=1",
+    "uid" : "735624CE-76F8-4D62-A615-FF58ADD1ACCC",
+    "name" : "tar",
+    "keyword" : "tar"
+  }
+}

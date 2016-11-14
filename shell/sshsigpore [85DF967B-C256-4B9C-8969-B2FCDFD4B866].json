@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "ssh  -fN -D 127.0.0.1:9999 root@188.166.249.53",
+    "uid" : "85DF967B-C256-4B9C-8969-B2FCDFD4B866",
+    "name" : "sshsigpore",
+    "keyword" : "sshsigpore"
+  }
+}

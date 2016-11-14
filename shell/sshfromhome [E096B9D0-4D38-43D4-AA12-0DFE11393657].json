@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "ssh -p 10022 sxwl1070@61.130.10.82",
+    "uid" : "E096B9D0-4D38-43D4-AA12-0DFE11393657",
+    "name" : "sshfromhome",
+    "keyword" : "sh"
+  }
+}

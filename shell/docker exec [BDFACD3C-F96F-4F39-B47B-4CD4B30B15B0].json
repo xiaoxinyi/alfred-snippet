@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "sudo docker exec -it zl_caffe_gpu zsh",
+    "uid" : "BDFACD3C-F96F-4F39-B47B-4CD4B30B15B0",
+    "name" : "docker exec",
+    "keyword" : "de"
+  }
+}

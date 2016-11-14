@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "git metge --no --FF",
+    "uid" : "F556F256-6568-4172-9E90-EA1D3E6386F3",
+    "name" : "git merge no fastforward",
+    "keyword" : "git merge no fastforward"
+  }
+}

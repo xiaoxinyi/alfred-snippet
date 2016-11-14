@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "ls -lR \/ 2>&1 | tee output.file",
+    "uid" : "E2EE051B-1DFA-4F11-B274-03F713DBB222",
+    "name" : "tee",
+    "keyword" : "tee"
+  }
+}

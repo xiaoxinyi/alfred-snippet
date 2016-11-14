@@ -1,8 +1,8 @@
 {
   "alfredsnippet" : {
-    "snippet" : "192.168.199.1",
+    "snippet" : "61.130.10.82",
     "uid" : "E60DE3E6-A99D-4668-A80D-40C9039B06BC",
-    "name" : "gateway",
-    "keyword" : "gw"
+    "name" : "wsgateway",
+    "keyword" : "wsgw"
   }
 }

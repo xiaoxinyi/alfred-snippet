@@ -1,6 +1,6 @@
 {
   "alfredsnippet" : {
-    "snippet" : "cd ~\/Library\/Application Support\/Alfred 3\/Alfred.alfredpreferences\/snippets\/",
+    "snippet" : "cd ~\/Library\/Application\\ Support\/Alfred\\ 3\/Alfred.alfredpreferences\/snippets\/",
     "uid" : "7EB27F5D-B3DE-4195-A777-D85E8A2874B4",
     "name" : "alfred snippet",
     "keyword" : "snippet"

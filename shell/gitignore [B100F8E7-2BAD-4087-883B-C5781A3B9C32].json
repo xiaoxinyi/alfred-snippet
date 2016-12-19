@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "# Ignoring a previously committed file\necho debug.log >> .gitignore\ngit rm --cached debug.log\ngit commit -m \"Start ignoring debug.log\"\n\n# Global Git ignore rules\ntouch ~\/.gitignore\ngit config --global core.excludesFile ~\/.gitignore\n\n# Committing an ignored file\ngit add -f debug.log\ngit commit -m \"Force adding debug.log\"\n\necho !debug.log >> .gitignore\ngit add debug.log\ngit commit -m \"Adding debug.log\"\n\n# Debugging .gitignore files\ngit check-ignore -v debug.log\n",
+    "uid" : "B100F8E7-2BAD-4087-883B-C5781A3B9C32",
+    "name" : "gitignore",
+    "keyword" : "gitignore"
+  }
+}

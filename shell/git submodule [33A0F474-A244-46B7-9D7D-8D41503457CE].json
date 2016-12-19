@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "git submodule add ..\/xx.git submod\ngit submodule update",
+    "uid" : "33A0F474-A244-46B7-9D7D-8D41503457CE",
+    "name" : "git submodule",
+    "keyword" : "git submodule"
+  }
+}

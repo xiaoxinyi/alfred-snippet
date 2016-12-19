@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "class {class} {\n public:\n  {class}\n};",
+    "uid" : "5B136830-6C29-45AE-9827-5734BE483609",
+    "name" : "class",
+    "keyword" : "class"
+  }
+}

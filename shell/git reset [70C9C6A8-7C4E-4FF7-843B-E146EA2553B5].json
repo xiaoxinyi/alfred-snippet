@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "git reset --hard HEAD  # current commit\ngit reset --hard HEAD^  # parent commit\ngit reset --hard HEAD^^ # grandparet commit\n\n# Remove the specified file from the staging area, but leave the working directory unchanged.\ngit reset <file>\n# Reset the staging area to match the most recent commit, but leave the working directory unchanged.\ngit reset\n# Reset the staging area and the working directory to match the most recent commit.\ngit reset --hard",
+    "uid" : "70C9C6A8-7C4E-4FF7-843B-E146EA2553B5",
+    "name" : "git reset",
+    "keyword" : "git reset"
+  }
+}

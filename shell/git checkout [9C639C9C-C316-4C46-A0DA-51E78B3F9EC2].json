@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "# pull a remote branch and create the same local branch\ngit checkout --track origin\/raychar",
+    "uid" : "9C639C9C-C316-4C46-A0DA-51E78B3F9EC2",
+    "name" : "git checkout",
+    "keyword" : "git checkout"
+  }
+}

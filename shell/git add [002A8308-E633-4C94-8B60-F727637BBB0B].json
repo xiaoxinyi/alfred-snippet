@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "# add only  modified files \ngit ls-files --modified | xargs git add",
+    "uid" : "002A8308-E633-4C94-8B60-F727637BBB0B",
+    "name" : "git add",
+    "keyword" : "git add"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "git cat-file commit hash\ngit cat-file blob hash",
+    "uid" : "6321D39E-6742-4EAA-967D-52D61B48C4A2",
+    "name" : "git cat-file",
+    "keyword" : "git cat-file"
+  }
+}

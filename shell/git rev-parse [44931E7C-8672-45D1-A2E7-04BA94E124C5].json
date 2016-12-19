@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "# The following returns the hash of the commit pointed to by the master branch\ngit rev-parse master",
+    "uid" : "44931E7C-8672-45D1-A2E7-04BA94E124C5",
+    "name" : "git rev-parse",
+    "keyword" : "git rev-parse"
+  }
+}

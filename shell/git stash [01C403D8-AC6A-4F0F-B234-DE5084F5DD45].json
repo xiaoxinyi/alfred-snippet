@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "## By default, running git stash will stash:\n# changes that have been added to your index (staged changes)\nchanges made to files that are currently tracked by Git (unstaged changes)\n\n## But it will not stash:\n# new files in your working copy that have not yet been staged\nfiles that have been ignored\n\ngit stash # stash staged file and tracked but unstaged file\ngit stash -u # stash untrack file\ngit stash -a # stash ignore file\n\n\n# Creating a branch from your stash\n git stash branch add-style stash@{1}\n# Cleaning up your stash\ngit stash drop stash@{1}\ngit stash clear\n\ngit stash list\ngit stash save \"add style to our site\"\n\n# Viewing stash diffs\ngit stash show\ngit stash show -p\n\n# Partial stashes\ngit stash -p\n\n# rename existing stash\n\ngit stash drop stash@{1}\ngit stash store -m 'refactor virturalenvironment.h|m to virtualenvironment.hh|mm' 0beef13ff5a36dccfee1c58cf7ad1508df524771\n\n# stash untracked files with a stash msg\ngit stash save -u 'untracked files examples\/ARAppCore\/VirtualEnvironment.hh|mm'",
+    "uid" : "01C403D8-AC6A-4F0F-B234-DE5084F5DD45",
+    "name" : "git stash",
+    "keyword" : "git stash"
+  }
+}

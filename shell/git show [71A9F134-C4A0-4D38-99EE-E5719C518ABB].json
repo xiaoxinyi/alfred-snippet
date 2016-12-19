@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "# bring back deleted file\ngit show commit_id:path\/to\/file > path\/to\/file",
+    "uid" : "71A9F134-C4A0-4D38-99EE-E5719C518ABB",
+    "name" : "git show",
+    "keyword" : "git show"
+  }
+}

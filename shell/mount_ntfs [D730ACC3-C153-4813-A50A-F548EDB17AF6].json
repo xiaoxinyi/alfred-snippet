@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "sudo mount_ntfs -o rw,nobrowse \/dev\/disk1s1 \/Users\/shihb\/Elements",
+    "uid" : "D730ACC3-C153-4813-A50A-F548EDB17AF6",
+    "name" : "mount_ntfs",
+    "keyword" : "mount_ntfs"
+  }
+}

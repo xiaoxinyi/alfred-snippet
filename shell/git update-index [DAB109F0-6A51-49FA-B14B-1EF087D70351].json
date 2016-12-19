@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "# This will tell git you want to start ignoring the changes to the file\ngit update-index --assume-unchanged path\/to\/file\n\n# When you want to start keeping track again\ngit update-index --no-assume-unchanged path\/to\/file",
+    "uid" : "DAB109F0-6A51-49FA-B14B-1EF087D70351",
+    "name" : "git update-index",
+    "keyword" : "git update-index"
+  }
+}

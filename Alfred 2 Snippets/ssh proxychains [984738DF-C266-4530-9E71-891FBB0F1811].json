@@ -1,8 +1,0 @@
-{
-  "alfredsnippet" : {
-    "snippet" : "ssh -p 1022  -fN -D 127.0.0.1:9999 root@192.168.199.1",
-    "uid" : "984738DF-C266-4530-9E71-891FBB0F1811",
-    "name" : "ssh proxychains",
-    "keyword" : "sshproxychains"
-  }
-}

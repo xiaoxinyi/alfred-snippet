@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "sudo nvidia-docker run -itd -p 6901:5901 -p 6006:6006 -p 8008:8888 -v `pwd`:\/root\/dl-data -v ~\/sxwl-dataset:\/root\/sxwl-dataset --restart always --name zl_deepleaning_vnc  zl\/deeplarning-vnc",
+    "uid" : "32CC609D-A628-4E92-9456-78F02969531A",
+    "name" : "nvidia docker",
+    "keyword" : "nvidia-docker"
+  }
+}

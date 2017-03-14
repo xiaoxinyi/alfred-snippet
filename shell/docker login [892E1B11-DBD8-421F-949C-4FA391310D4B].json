@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "docker login --username=xiaoxinyi --email=xiaoxin88214@163.com",
+    "uid" : "892E1B11-DBD8-421F-949C-4FA391310D4B",
+    "name" : "docker login",
+    "keyword" : "docker login"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "FIND_PACKAGE( OpenCV REQUIRED )\ninclude_directories ( ${OpenCV_INCLUDE_DIRS} )\nlink_directories ( ${OpenCV_LIB_DIR} )\ntarget_link_libraries(main ${OpenCV_LIBS})",
+    "uid" : "FE83E6FF-5E5A-42EC-8072-2520D98F2CE1",
+    "name" : "opecv",
+    "keyword" : "opencv"
+  }
+}

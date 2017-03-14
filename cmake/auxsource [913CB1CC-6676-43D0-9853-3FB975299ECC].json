@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "AUX_SOURCE_DIRECTORY(. DIR_HELLO_SRCS)  ",
+    "uid" : "913CB1CC-6676-43D0-9853-3FB975299ECC",
+    "name" : "auxsource",
+    "keyword" : "auxsource"
+  }
+}

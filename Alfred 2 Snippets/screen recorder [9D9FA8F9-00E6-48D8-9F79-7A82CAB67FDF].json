@@ -1,8 +1,0 @@
-{
-  "alfredsnippet" : {
-    "snippet" : "ffmpeg -i in.mov -s 600x400 -pix_fmt rgb24 -r 10 -f gif - | gifsicle --optimize=3 --delay=3 > out.gif",
-    "uid" : "9D9FA8F9-00E6-48D8-9F79-7A82CAB67FDF",
-    "name" : "screen recorder",
-    "keyword" : "sr"
-  }
-}

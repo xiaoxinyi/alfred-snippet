@@ -1,6 +1,6 @@
 {
   "alfredsnippet" : {
-    "snippet" : "git submodule add ..\/xx.git submod\ngit submodule update",
+    "snippet" : "git submodule add ..\/xx.git submod\ngit submodule update\n\n# update submodule to latest version with remote repo\ngit submodule update --remote\n",
     "uid" : "33A0F474-A244-46B7-9D7D-8D41503457CE",
     "name" : "git submodule",
     "keyword" : "git submodule"

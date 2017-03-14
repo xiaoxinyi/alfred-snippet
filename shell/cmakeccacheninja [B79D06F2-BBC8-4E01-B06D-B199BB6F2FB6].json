@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : " cmake .. -DCMAKE_CXX_COMPILER=clang++-ccache -DCMAKE_C_COMPILER=clang-ccache -GNinja",
+    "uid" : "B79D06F2-BBC8-4E01-B06D-B199BB6F2FB6",
+    "name" : "cmakeccacheninja",
+    "keyword" : "ccn"
+  }
+}

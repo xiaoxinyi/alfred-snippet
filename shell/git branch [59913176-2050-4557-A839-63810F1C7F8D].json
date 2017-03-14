@@ -1,6 +1,6 @@
 {
   "alfredsnippet" : {
-    "snippet" : "# create a new branch\ngit branch feature\n# switch to feature branch\ngit chechout feature\n# push branch feature to remote\ngit push origin feature\n# show all braches both locally and remotely\ngit branch -a\n# delete merged branch\ngit branch -d feature\n# delete unmerged branch\ngit branch -D feature\n# delete remote branch\ngit push --delete origin feature",
+    "snippet" : "# create a new branch\ngit branch feature\n# switch to feature branch\ngit chechout feature\n# push branch feature to remote\ngit push origin feature\ngit push <remotename> <commit SHA>:refs\/heads\/<remotebranchname>\n# show all braches both locally and remotely\ngit branch -a\n# delete merged branch\ngit branch -d feature\n# delete unmerged branch\ngit branch -D feature\n# delete remote branch\ngit push --delete origin feature",
     "uid" : "59913176-2050-4557-A839-63810F1C7F8D",
     "name" : "git branch",
     "keyword" : "git branch"

@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "dd if=\/dev\/sda of=\/dev\/sdb  conv=noerror,sync status=progress",
+    "uid" : "494AC3FC-46B7-434A-AEA6-361C08B9C2D4",
+    "name" : "dd",
+    "keyword" : "dd"
+  }
+}

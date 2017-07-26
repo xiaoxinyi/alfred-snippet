@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "cfg = K.tf.ConfigProto(gpu_options={'allow_growth': True})\nK.set_session(K.tf.Session(config=cfg))",
+    "uid" : "C729DCDB-6002-4873-B4E3-34BDE09B7176",
+    "name" : "sess",
+    "keyword" : "sess"
+  }
+}

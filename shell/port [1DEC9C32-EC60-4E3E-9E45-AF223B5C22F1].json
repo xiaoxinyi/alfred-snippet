@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "lsof -i -P | grep -i \"listen\"",
+    "uid" : "1DEC9C32-EC60-4E3E-9E45-AF223B5C22F1",
+    "name" : "port",
+    "keyword" : "port"
+  }
+}

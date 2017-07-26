@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "sudo nmap -sS -p 30000-40000 192.168.199.208",
+    "uid" : "DB8FA4C0-08FF-45C9-9A76-C93F89261E2E",
+    "name" : "nmap",
+    "keyword" : "nmap"
+  }
+}

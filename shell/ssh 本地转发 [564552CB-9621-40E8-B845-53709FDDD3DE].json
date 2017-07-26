@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "ssh  -fN -L 127.0.0.1:9998:localhost:1080 zhangli@192.168.199.11",
+    "uid" : "564552CB-9621-40E8-B845-53709FDDD3DE",
+    "name" : "ssh 本地转发",
+    "keyword" : "sshl"
+  }
+}

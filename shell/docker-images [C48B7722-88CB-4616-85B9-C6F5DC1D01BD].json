@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "function docker-images(){\n  for repository in $(curl -s http:\/\/SXKJ:32775\/v2\/_catalog | jq -r '.repositories[]'); do\n  curl -s http:\/\/SXKJ:32775\/v2\/${repository}\/tags\/list | jq -r '(.name + \":\" + .tags[])'\ndone\n}",
+    "uid" : "C48B7722-88CB-4616-85B9-C6F5DC1D01BD",
+    "name" : "docker-images",
+    "keyword" : "docker-images"
+  }
+}

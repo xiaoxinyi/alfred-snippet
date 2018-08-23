@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "# Put these at the top of every notebook, to get automatic reloading and inline plotting\n%reload_ext autoreload\n%autoreload 2\n%matplotlib inline",
+    "uid" : "5A7C5325-F0C6-4F48-9B27-CF6622A8FCA1",
+    "name" : "autoreload",
+    "keyword" : "autoreload"
+  }
+}

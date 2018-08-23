@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "net use \\\\计算机名 \/delete\nnet use \\\\计算机名 \/user:用户名\nnet use * \/del \/y",
+    "uid" : "02460181-CD15-4935-9A94-A2ACE38ED229",
+    "name" : "windows logout shared",
+    "keyword" : "windows logout shared "
+  }
+}

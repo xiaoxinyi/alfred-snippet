@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "from fastai.imports import *\nfrom fastai.transforms import *\nfrom fastai.conv_learner import *\nfrom fastai.model import *\nfrom fastai.dataset import *\nfrom fastai.sgdr import *\nfrom fastai.plots import *",
+    "uid" : "41C8ABA9-B1A2-4E79-B9FD-AB2707FB5FD8",
+    "name" : "imports",
+    "keyword" : "imports"
+  }
+}

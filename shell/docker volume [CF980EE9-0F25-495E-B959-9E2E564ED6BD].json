@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "docker volume create --name=nvidia_driver_361.48 -d nvidia-docker",
+    "uid" : "CF980EE9-0F25-495E-B959-9E2E564ED6BD",
+    "name" : "docker volume",
+    "keyword" : "docker volume"
+  }
+}

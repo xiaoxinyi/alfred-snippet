@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "import torch\n\ntorch.cuda.is_available()",
+    "uid" : "4C1579F1-02D1-46B2-9A3E-C0313ACA1C48",
+    "name" : "test gpu",
+    "keyword" : "gputorch"
+  }
+}

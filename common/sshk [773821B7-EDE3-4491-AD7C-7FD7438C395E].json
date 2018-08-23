@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "地址：47.52.111.105\n端口：3389\n加密：aes-256-cfb\n密码：test123",
+    "uid" : "773821B7-EDE3-4491-AD7C-7FD7438C395E",
+    "name" : "sshk",
+    "keyword" : "sshk"
+  }
+}

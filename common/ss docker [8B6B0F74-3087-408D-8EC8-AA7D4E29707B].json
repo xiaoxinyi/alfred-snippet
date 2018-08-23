@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "docker run -dt  --restart always --name ss -p 3389:6443 mritd\/shadowsocks -s \"-s 0.0.0.0 -p 6443 -m aes-256-cfb -k test123 --fast-open",
+    "uid" : "8B6B0F74-3087-408D-8EC8-AA7D4E29707B",
+    "name" : "ss docker",
+    "keyword" : "ss docker"
+  }
+}

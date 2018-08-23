@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "import torch\ntorch.cuda.is_available()\ntorch.backends.cudnn.enabled",
+    "uid" : "DE14D964-4EA5-483C-9242-9DDDE74FE817",
+    "name" : "torchcuda",
+    "keyword" : "torchcuda"
+  }
+}

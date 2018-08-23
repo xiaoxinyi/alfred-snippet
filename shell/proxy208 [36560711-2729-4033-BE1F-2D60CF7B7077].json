@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "alias proxy208='http_proxy=http:\/\/192.168.199.208:8123 https_proxy=http:\/\/192.168.199.208:8123'",
+    "uid" : "36560711-2729-4033-BE1F-2D60CF7B7077",
+    "name" : "proxy208",
+    "keyword" : "proxy208"
+  }
+}

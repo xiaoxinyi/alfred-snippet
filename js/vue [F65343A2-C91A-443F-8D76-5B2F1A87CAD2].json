@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "<script src=\"https:\/\/unpkg.com\/vue@2.5.9\/dist\/vue.js\"><\/script>\n\n<div id=\"app\">\n   <my-app><\/my-app>\n   <my-app><\/my-app>\n<\/div>\n\n\nvar data = {\n\tstatus: 'Critical'\n};\n\nVue.component('my-app', {\n\tdata:  function() {\n  \treturn data\n  \t\n  },\n  template: '<p> Server Status: {{ status }} (<button @click=\"changeStatus\">Change<\/button>) <\/p>',\n  methods: {\n  \tchangeStatus: function() {\n    \tthis.status = 'Nomal'\n    }\n  }\n});\n\nnew Vue({\n\tel: '#app',\n})",
+    "uid" : "F65343A2-C91A-443F-8D76-5B2F1A87CAD2",
+    "name" : "vue",
+    "keyword" : "vue"
+  }
+}

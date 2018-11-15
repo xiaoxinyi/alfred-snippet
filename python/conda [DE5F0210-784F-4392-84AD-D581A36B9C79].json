@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "conda create -n py3.6 pip ipython ipykernel python=3.6",
+    "uid" : "DE5F0210-784F-4392-84AD-D581A36B9C79",
+    "name" : "conda",
+    "keyword" : "conda"
+  }
+}

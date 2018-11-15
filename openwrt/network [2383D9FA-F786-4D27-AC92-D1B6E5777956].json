@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "uci set network.lan.ipaddr=10.211.55.100\n\nuci set network.lan.gateway=10.211.55.1\n\nuci commit\n\n\/etc\/init.d\/network restart",
+    "uid" : "2383D9FA-F786-4D27-AC92-D1B6E5777956",
+    "name" : "network",
+    "keyword" : "network"
+  }
+}

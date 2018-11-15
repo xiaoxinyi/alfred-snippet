@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : " dpkg --get-selections | grep nvidia",
+    "uid" : "780D1505-4825-4468-B5DD-8ADA471FC78D",
+    "name" : "dpkg",
+    "keyword" : "dpkg"
+  }
+}

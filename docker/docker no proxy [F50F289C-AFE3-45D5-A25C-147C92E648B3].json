@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "export NO_PROXY=192.168.199.31,localhost,127.0.0.1,http:\/\/hub-mirror.c.163.com,http:\/\/8f3c3567.m.daocloud.io\nexport  no_proxy=192.168.199.31,localhost,127.0.0.1,http:\/\/hub-mirror.c.163.com,http:\/\/8f3c3567.m.daocloud.io\n",
+    "uid" : "F50F289C-AFE3-45D5-A25C-147C92E648B3",
+    "name" : "docker no proxy",
+    "keyword" : "docker no proxy"
+  }
+}

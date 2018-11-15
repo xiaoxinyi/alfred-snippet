@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "python -m ipykernel install --user --name py3.6 --display-name \"py3.6\"",
+    "uid" : "1C9F009E-5F9F-4064-A1A1-C0C2B19D99BF",
+    "name" : "conda juypter",
+    "keyword" : "ipykernel"
+  }
+}

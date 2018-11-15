@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "#coding:utf-8\nfrom __future__ import with_statement\nfrom fabric.api import *\n\n# fab --list\n# fab run_140 run_test -f xxx.py\n\n@task\ndef run_140():\n    env.hosts = ['sxkj@192.168.199.140:22']\n    env.passwords = { 'sxkj@192.168.199.140:22': 'sx' }\n    env.sudo_passwords = { 'sxkj@192.168.199.140:22': 'sx' }\n\n@task\ndef run_test():\n    run('whoami')\n\n\n\nif __name__ == '__main__':\n    execute(run_140)\n    execute(run_test)\n",
+    "uid" : "5E83F4B9-1E24-44FA-B0A3-8931FF2F1940",
+    "name" : "fabric",
+    "keyword" : "fabric"
+  }
+}

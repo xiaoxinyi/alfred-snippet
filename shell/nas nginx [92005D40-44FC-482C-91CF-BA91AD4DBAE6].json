@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "server {\n    listen 7777;\n    location \/ {\n      proxy_pass http:\/\/192.168.199.107:7777;\n    }\n    location \/md {\n      rewrite \/md\/(.*) \/data\/Group\/public\/home\/document\/$1 break;\n      proxy_pass http:\/\/192.168.199.107:7777;\n    }\n  }\n\n  server {\n    listen 15427;\n    location \/ {\n      proxy_pass http:\/\/192.168.199.107:15427;\n    }\n  }",
+    "uid" : "92005D40-44FC-482C-91CF-BA91AD4DBAE6",
+    "name" : "nas nginx",
+    "keyword" : "nas nginx"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "docker rm `docker ps --filter \"status=exited\" -q`",
+    "uid" : "2D0475D4-75FA-4E4B-AAD9-5C474505C237",
+    "name" : "docker rm stop",
+    "keyword" : "docker  rm stop"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "export no_proxy=`echo 192.168.{1..255}.{1..255} | sed 's\/ \/,\/g'`",
+    "uid" : "63EA24DC-1020-443C-BF5E-4C8BD17407F3",
+    "name" : "noproxy",
+    "keyword" : "noproxy"
+  }
+}

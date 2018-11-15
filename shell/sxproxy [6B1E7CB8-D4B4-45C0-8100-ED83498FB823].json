@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "export http_proxy=http:\/\/192.168.199.208:8123; export  https_proxy=http:\/\/192.168.199.208:8123",
+    "uid" : "6B1E7CB8-D4B4-45C0-8100-ED83498FB823",
+    "name" : "sxproxy",
+    "keyword" : "sxproxy"
+  }
+}
